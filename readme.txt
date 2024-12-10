@@ -59,7 +59,7 @@ This project provides an Express.js-based API for calculating various types of t
 
 2. **Access the API at:**
    ```
-   http://localhost:3000
+   https://umkm-pajak-api-57151910209.asia-southeast2.run.app
    ```
 
 ---
